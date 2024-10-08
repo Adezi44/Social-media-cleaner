@@ -19,3 +19,12 @@ Display a summary of the user's social media activity, highlighting areas for cl
 Automated Suggestions:
 
 Use algorithms to suggest accounts to unfollow or posts to delete based on user behavior.
+Backup Data:
+
+Allow users to back up their social media data before making changes.
+Scheduling:
+
+Enable users to schedule cleanup tasks (e.g., weekly unfollowing of inactive accounts).
+Cross-Platform Support:
+
+Support multiple social media platforms (e.g., Facebook, Twitter, Instagram, LinkedIn).
